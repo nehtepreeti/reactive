@@ -1,0 +1,6 @@
+framework module Pods_reactive_Example {
+  umbrella header "Pods-reactive_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

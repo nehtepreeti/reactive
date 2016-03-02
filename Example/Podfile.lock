@@ -1,0 +1,14 @@
+PODS:
+  - reactive (0.1.0)
+
+DEPENDENCIES:
+  - reactive (from `../`)
+
+EXTERNAL SOURCES:
+  reactive:
+    :path: ../
+
+SPEC CHECKSUMS:
+  reactive: 05bcc7556f7b4dc43178945d99e762535500bcd6
+
+COCOAPODS: 0.39.0

@@ -1,0 +1,25 @@
+{
+  "name": "reactive",
+  "version": "0.1.0",
+  "summary": "A short description of reactive.",
+  "description": "",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/reactive",
+  "license": "MIT",
+  "authors": {
+    "Preeti Nehte": "preeti.nehte@globant.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/reactive.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "requires_arc": true,
+  "source_files": "Pod/Classes/**/*",
+  "resource_bundles": {
+    "reactive": [
+      "Pod/Assets/*.png"
+    ]
+  }
+}
