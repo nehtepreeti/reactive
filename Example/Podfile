@@ -1,0 +1,12 @@
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'reactive_Example', :exclusive => true do
+  pod 'reactive', :path => '../'
+end
+
+target 'reactive_Tests', :exclusive => true do
+  pod 'reactive', :path => '../'
+
+  
+end
